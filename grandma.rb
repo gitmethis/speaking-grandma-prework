@@ -19,6 +19,7 @@ def speak_to_grandma(string)
    end  
   
    if string.upcase == string
+      print 'yo'
       return "No, NOT SINCE 1938!"
    end
   
